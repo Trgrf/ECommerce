@@ -21,3 +21,6 @@ No Test Given
 ## Questions
 If you are interested in contacting me my GitHub profile is [Trgrf](https://github.com/Trgrf). <br />
 My email is [adamgonzalez1000@gmail.com](mailto:adamgonzalez1000@gmail.com).
+## Video
+Here is a video link of me testing the routes
+https://watch.screencastify.com/v/o2uxE510BsGQmK20W9Wy
